@@ -6,8 +6,8 @@ This component allow you to filter a query via the query string.
 
 ## Requirement
 
-- PHP: ^7.3\|^7.4\|^8.0
-- Laravel: ^6.0\|^7.0\|^8.0
+- PHP: >=8.0.2
+- Laravel: ^9.0\
 - PHP extension php_zip enabled
 - PHP extension php_xml enabled
 - PHP extension php_gd2 enabled
