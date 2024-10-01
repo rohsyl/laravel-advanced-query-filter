@@ -5,20 +5,20 @@
     "authors": [
         {
             "name": "rohsyl",
-            "email": "syzin12@gmail.com"
+            "email": "sylvain@rohs.ch"
         }
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=8.0.2",
-        "illuminate/container": "^9.0",
-        "illuminate/contracts": "^9.0",
+        "php": "^8.2",
+        "illuminate/container": "^11.0",
+        "illuminate/contracts": "^11.0",
         "maatwebsite/excel": "^3.1",
         "carlos-meneses/laravel-mpdf": "^2.1"
     },
     "require-dev": {
-        "orchestra/testbench": "^7.0",
-        "phpunit/phpunit": "^9.0"
+        "orchestra/testbench": "^9.0",
+        "phpunit/phpunit": "^11.0.1"
     },
     "autoload": {
         "psr-4": {
